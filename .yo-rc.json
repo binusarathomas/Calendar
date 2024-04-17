@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "outlook-calendar",
+    "libraryId": "60e7c798-6c2a-4e69-bc60-ab0432682b90",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "OutlookCalendar",
+    "solutionShortDescription": "OutlookCalendar description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
